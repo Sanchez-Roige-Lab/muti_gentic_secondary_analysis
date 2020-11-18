@@ -10,13 +10,13 @@
     download Anaconda for python3 (Anaconda3) first, and set the base enviorment with python3 to be your default enviorment as promoted
     Then create a new python2 enviorment with anaconda and install python2 in it. 
     - a good way to test if python2 and python3 is properly installed is by typing python (or python3 or python2,depends on how you set the name) in command line, and see if it open a python code terminal and allow you to type python code directly like :
-      
-      $python
-      Python 3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)] :: Anaconda, Inc. on win32
-      Type "help", "copyright", "credits" or "license" for more information.
-      >>>1+1
-      2
-      >>>
+    
+    $ python
+Python 3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)] :: Anaconda, Inc. on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1+1
+2
+>>>
   
   - Once you got the enviorments set up, clone github repository for MetaXcan and  H-MAGMA and ldsc locally(recommend using Github desktop if you are not familiar with commandline), and install all required package of MetaXcan in python3 enviorment, and all required packege for ldsc in python2 enviorment. 
   - for H-MAGMA, download MAGMA v1.08 https://ctg.cncr.nl/software/magma, and put into "Codes" folder of H-MAGMA
